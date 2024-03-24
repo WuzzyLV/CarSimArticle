@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  color: #dfdfdf;
+  background-color: #2c2f33;
+}
+
+.container {
+  width: 48rem;
+}
+
+/* make everything larger font by 1 rem */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+body {
+  font-size: 1.4rem;
+}
+
+tt {
+  color: #7289da;
+}
+
+a {
+  color: #7289da;
+}
